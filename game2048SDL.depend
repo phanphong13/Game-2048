@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1619501342 source:d:\game2048sdl\main.cpp
+	<iostream>
+	<windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	"Game.h"
+
+1618584524 source:d:\game2048sdl\render.cpp
+
+1618584330 d:\game2048sdl\render.h
+	<SDL_image.h>
+	<SDL.h>
+	<string>
+	"Hamcb.h"
+
+1618584287 d:\game2048sdl\hamcb.h
+	<iostream>
+	"render.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1618584527 source:d:\game2048sdl\hamcb.cpp
+
+1619501659 source:d:\game2048sdl\texture.cpp
+	"Texture.h"
+
+1619502618 d:\game2048sdl\texture.h
+	<iostream>
+	<ostream>
+	<SDL.h>
+	<string>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1618673486 source:d:\game2048sdl\block.cpp
+	"block.h"
+
+1618839336 d:\game2048sdl\block.h
+	"Texture.h"
+	<SDL_ttf.h>
+	<string>
+	<sstream>
+
+1619502657 source:d:\game2048sdl\draw.cpp
+	"draw.h"
+
+1619503387 d:\game2048sdl\draw.h
+	"block.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+	"Texture.h"
+
+1618674460 source:d:\game2048sdl\maingame.cpp
+	"MainGame.h"
+
+1618674133 d:\game2048sdl\maingame.h
+	"draw.h"
+	<SDL_ttf.h>
+	<time.h>
+	<cstdlib>
+	<iostream>
+	<vector>
+	<SDL_mixer.h>
+	<fstream>
+	<algorithm>
+
+1619502680 source:d:\game2048sdl\game.cpp
+	"Game.h"
+
+1619500333 d:\game2048sdl\game.h
+	"draw.h"
+	<SDL_ttf.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<algorithm>
+
+1619277024 d:\game2048sdl\mouse.h
+	"draw.h"
+
+1619277012 source:d:\game2048sdl\mouse.cpp
+
+1619348000 source:d:\game2048sdl\start.cpp
+
